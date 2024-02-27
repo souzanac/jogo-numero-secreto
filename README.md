@@ -18,6 +18,13 @@ Este projeto é parte do processo de seleção da Turma 6 da ONE - Oracle Next E
 
 --- 
 
+# ✔️ Tecnologias utilizadas
+
+- ``HTML5``
+- ``CSS3``
+- ``JavaScript``
+
+--- 
 # 📁 Acesso ao projeto
 
 - Você pode acessar o projeto publicado através do [Vercel.com](https://jogo-numero-secreto-mauve-eight.vercel.app/)
@@ -26,10 +33,3 @@ Este projeto é parte do processo de seleção da Turma 6 da ONE - Oracle Next E
 
 - Após abrir o link, basta começar a jogar inserindo um número manualmente ou usando as setas laterais para aumentar ou diminuir o número escolhido, apertar no botão "chutar" e se divertir jogando!
 
---- 
-
-# ✔️ Tecnologias utilizadas
-
-- ``HTML5``
-- ``CSS3``
-- ``JavaScript``
