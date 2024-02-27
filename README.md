@@ -24,7 +24,7 @@ Este projeto é parte do processo de seleção da Turma 6 da ONE - Oracle Next E
 
 # 🛠️ Abrir e rodar o projeto
 
-- Após abrir o link, basta começar a jogar inserindo um número manualmente ou usando as setas laterais para aumentar ou diminuir o número escolhido e se divertir jogando!
+- Após abrir o link, basta começar a jogar inserindo um número manualmente ou usando as setas laterais para aumentar ou diminuir o número escolhido, apertar no botão "chutar" e se divertir jogando!
 
 --- 
 
